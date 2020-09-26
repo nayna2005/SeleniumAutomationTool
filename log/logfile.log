@@ -1,0 +1,912 @@
+2020-09-25 20:04:49,817  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:04:49,821  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:04:49,824  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:04:49,824  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:04:49,824  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:04:49,825  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:04:49,825  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:04:49,825  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:04:49,825  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:04:49,826  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:04:49,826  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:04:49,826  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:04:49,884  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:04:49,884  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:04:49,885  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:04:49,886  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:04:49,886  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:04:49,911  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:04:49,911  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:04:49,912  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-86/chromedriver_win32/chromedriver.exe
+2020-09-25 20:04:49,912  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-86/chromedriver_win32/chromedriver.exe
+2020-09-25 20:04:49,912  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:05:01,435  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:05:01,437  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:05:01,439  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:05:01,439  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:05:01,439  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:05:01,440  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:05:01,440  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:05:01,440  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:05:01,441  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:05:01,441  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:05:01,441  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:05:01,441  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:05:01,491  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:05:01,491  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:05:01,491  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:05:01,492  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:05:01,493  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:05:01,518  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:05:01,519  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:05:01,519  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-86/chromedriver_win32/chromedriver.exe
+2020-09-25 20:05:01,519  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-86/chromedriver_win32/chromedriver.exe
+2020-09-25 20:05:01,519  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:06:30,837  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:06:30,839  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:06:30,840  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:06:30,840  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:06:30,840  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:06:30,841  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:06:30,841  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:06:30,841  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:06:30,841  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:06:30,842  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:06:30,842  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:06:30,842  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:06:30,885  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:06:30,886  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:06:30,886  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:06:30,887  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:06:30,887  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:06:30,914  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:06:30,914  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:06:30,914  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:06:30,914  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:06:30,914  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:12:18,844  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:12:18,846  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:12:18,847  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:12:18,848  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:12:18,848  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:12:18,849  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:12:18,849  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:12:18,849  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:12:18,849  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:12:18,849  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:12:18,850  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:12:18,850  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:12:18,904  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:12:18,904  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:12:18,904  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:12:18,905  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:12:18,905  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:12:18,929  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:12:18,930  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:12:18,930  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:12:18,930  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:12:18,930  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:16:52,021  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:16:52,022  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:16:52,023  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:16:52,024  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:16:52,024  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:16:52,024  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:16:52,025  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:16:52,025  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:16:52,025  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:16:52,025  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:16:52,025  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:16:52,026  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:16:52,089  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:16:52,089  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:16:52,090  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:16:52,090  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:16:52,091  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:16:52,113  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:16:52,113  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:16:52,113  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:16:52,114  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:16:52,114  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:23:40,706  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:23:40,708  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:23:40,710  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:23:40,710  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:23:40,710  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:23:40,710  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:23:40,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:23:40,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:23:40,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:23:40,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:23:40,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:23:40,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:23:40,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:23:40,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:23:40,767  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:23:40,768  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:23:40,768  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:23:40,796  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:23:40,797  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:23:40,797  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:23:40,797  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:23:40,798  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:28:28,920  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:28:28,922  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:28:28,923  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:28:28,923  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:28:28,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:28:28,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:28:28,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:28:28,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:28:28,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:28:28,925  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:28:28,925  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:28:28,925  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:28:28,982  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:28:28,983  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:28:28,983  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:28:28,984  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:28:28,985  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:28:29,017  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:28:29,017  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-25 20:28:29,018  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:28:29,018  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:28:29,018  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-25 20:30:37,045  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 20:30:37,047  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:30:37,048  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 20:30:37,048  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:30:37,049  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 20:30:37,049  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:30:37,049  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-25 20:30:37,049  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:30:37,049  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-25 20:30:37,050  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:30:37,050  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-25 20:30:37,050  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 20:30:37,108  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-25 20:30:37,108  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 20:30:37,109  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-25 20:30:37,110  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-25 20:30:37,110  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 20:30:37,138  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 20:30:37,139  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> chrome
+2020-09-25 20:30:37,139  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:30:37,139  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 20:30:37,140  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 43 - In Chrome ...
+2020-09-25 20:30:37,142  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 52 - Setting Chrome driver ...
+2020-09-25 20:30:40,863  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 61 - Chrome browser started
+2020-09-25 20:30:40,870  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 67 - Wait time is -> 10
+2020-09-25 20:30:43,013  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:1
+2020-09-25 20:30:43,013  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Open url
+2020-09-25 20:30:43,013  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 20:30:43,013  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 20:30:43,014  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:http://sampleapp.tricentis.com/101/app.php
+2020-09-25 20:30:43,014  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:url
+2020-09-25 20:30:43,014  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:43,014  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:43,014  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:43,014  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:43,015  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:43,015  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:43,015  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -url http://sampleapp.tricentis.com/101/app.php   
+2020-09-25 20:30:43,015  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: url inputValue: http://sampleapp.tricentis.com/101/app.php webElementValue:  
+2020-09-25 20:30:44,391  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 297 - Url is opened sucessfully
+2020-09-25 20:30:44,391  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:44,391  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:2
+2020-09-25 20:30:44,392  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Dropdown select
+2020-09-25 20:30:44,392  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:30:44,392  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="make"]
+2020-09-25 20:30:44,392  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:BMW
+2020-09-25 20:30:44,393  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:dropdown
+2020-09-25 20:30:44,393  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:44,393  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:44,393  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:44,393  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:44,394  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:44,394  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:44,394  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -dropdown BMW //*[@id="make"]  
+2020-09-25 20:30:44,394  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: dropdown inputValue: BMW webElementValue:  //*[@id="make"]
+2020-09-25 20:30:44,396  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:44,457  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 146 - xpath //*[@id="make"]
+2020-09-25 20:30:44,457  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 147 - BMW
+2020-09-25 20:30:44,525  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:44,526  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:3
+2020-09-25 20:30:44,526  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Enter Engine Performance
+2020-09-25 20:30:44,526  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:30:44,526  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="engineperformance"]
+2020-09-25 20:30:44,527  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:3000
+2020-09-25 20:30:44,527  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:input
+2020-09-25 20:30:44,527  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:44,527  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:44,527  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:44,527  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:44,528  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:44,528  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:44,528  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -input 3000 //*[@id="engineperformance"]  
+2020-09-25 20:30:44,528  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: input inputValue: 3000 webElementValue:  //*[@id="engineperformance"]
+2020-09-25 20:30:44,528  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 93 - In keyword: input inputValue: 3000 webElementValue:  //*[@id="engineperformance"]  
+2020-09-25 20:30:44,529  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:44,580  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:44,669  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 96 - valueOne :  valueTwo :  failMessage : 
+2020-09-25 20:30:44,675  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 116 - Input is performed sucessfully
+2020-09-25 20:30:44,675  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:44,675  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:10
+2020-09-25 20:30:44,676  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Sleep 
+2020-09-25 20:30:44,676  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 20:30:44,676  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 20:30:44,676  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:1200
+2020-09-25 20:30:44,676  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:sleep
+2020-09-25 20:30:44,677  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:44,677  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:44,677  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:44,677  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:44,677  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:44,677  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:44,678  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -sleep 1200   
+2020-09-25 20:30:44,678  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: sleep inputValue: 1200 webElementValue:  
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 334 - sleep is done sucessfully
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:3
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Enter Engine Performance
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="engineperformance"]
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:
+2020-09-25 20:30:49,679  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:clear
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:49,680  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -clear  //*[@id="engineperformance"]  
+2020-09-25 20:30:49,681  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: clear inputValue:  webElementValue:  //*[@id="engineperformance"]
+2020-09-25 20:30:49,681  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 132 - In keyword: clear inputValue:  webElementValue:  //*[@id="engineperformance"]
+2020-09-25 20:30:49,681  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:49,710  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 134 - Clear input is performed sucessfully
+2020-09-25 20:30:49,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:49,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:10
+2020-09-25 20:30:49,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Sleep 
+2020-09-25 20:30:49,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 20:30:49,711  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 20:30:49,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:1200
+2020-09-25 20:30:49,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:sleep
+2020-09-25 20:30:49,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:49,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:49,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:49,712  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:49,713  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:49,713  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:49,713  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -sleep 1200   
+2020-09-25 20:30:49,713  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: sleep inputValue: 1200 webElementValue:  
+2020-09-25 20:30:54,714  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 334 - sleep is done sucessfully
+2020-09-25 20:30:54,714  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:54,714  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:4
+2020-09-25 20:30:54,714  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Enter Manufacturing Date
+2020-09-25 20:30:54,714  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="dateofmanufacture"]
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:10/12/2019
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:input
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:54,715  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:54,716  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:54,716  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -input 10/12/2019 //*[@id="dateofmanufacture"]  
+2020-09-25 20:30:54,716  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: input inputValue: 10/12/2019 webElementValue:  //*[@id="dateofmanufacture"]
+2020-09-25 20:30:54,716  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 93 - In keyword: input inputValue: 10/12/2019 webElementValue:  //*[@id="dateofmanufacture"]  
+2020-09-25 20:30:54,716  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:54,759  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:54,856  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 96 - valueOne :  valueTwo :  failMessage : 
+2020-09-25 20:30:54,856  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 116 - Input is performed sucessfully
+2020-09-25 20:30:54,856  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:54,856  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:5
+2020-09-25 20:30:54,856  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Enter Cylinder
+2020-09-25 20:30:54,857  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:id
+2020-09-25 20:30:54,857  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:cylindercapacity
+2020-09-25 20:30:54,857  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:6
+2020-09-25 20:30:54,857  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:input
+2020-09-25 20:30:54,857  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:54,857  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:54,858  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:54,858  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:54,858  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:54,858  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:54,858  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -input 6 cylindercapacity  
+2020-09-25 20:30:54,859  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: input inputValue: 6 webElementValue:  cylindercapacity
+2020-09-25 20:30:54,859  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 93 - In keyword: input inputValue: 6 webElementValue:  cylindercapacity  
+2020-09-25 20:30:54,859  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Web Element is an - > id
+2020-09-25 20:30:54,894  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Web Element is an - > id
+2020-09-25 20:30:54,930  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 96 - valueOne :  valueTwo :  failMessage : 
+2020-09-25 20:30:54,930  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 116 - Input is performed sucessfully
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:6
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Number of Seat
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="numberofseats"]
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:5
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:dropdown
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:54,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:54,932  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:54,932  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -dropdown 5 //*[@id="numberofseats"]  
+2020-09-25 20:30:54,932  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: dropdown inputValue: 5 webElementValue:  //*[@id="numberofseats"]
+2020-09-25 20:30:54,932  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:54,956  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 146 - xpath //*[@id="numberofseats"]
+2020-09-25 20:30:54,956  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 147 - 5
+2020-09-25 20:30:54,995  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:7
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Right Hand Drive
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="insurance-form"]/div/section[1]/div[7]/p/label[2]/span
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:No
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:radio
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:30:54,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:30:54,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:30:54,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:30:54,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:30:54,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:30:54,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -radio No //*[@id="insurance-form"]/div/section[1]/div[7]/p/label[2]/span  
+2020-09-25 20:30:54,997  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: radio inputValue: No webElementValue:  //*[@id="insurance-form"]/div/section[1]/div[7]/p/label[2]/span
+2020-09-25 20:30:55,004  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:30:55,038  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 236 - Is Exp radio button displayed: true
+2020-09-25 20:30:55,047  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 240 - Is Exp radio button enabled: true
+2020-09-25 20:30:55,058  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 245 - Default Radio button selection Status: false
+2020-09-25 20:31:00,184  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 255 - Experience radio Selection status after perform click() event: false
+2020-09-25 20:31:00,184  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:8
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Number of Seat
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="numberofseatsmotorcycle"]
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:2
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:dropdown
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -dropdown 2 //*[@id="numberofseatsmotorcycle"]  
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: dropdown inputValue: 2 webElementValue:  //*[@id="numberofseatsmotorcycle"]
+2020-09-25 20:31:00,185  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:31:00,204  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 146 - xpath //*[@id="numberofseatsmotorcycle"]
+2020-09-25 20:31:00,204  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 147 - 2
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:9
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Fuel Type
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://*[@id="fuel"]
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:Petrol
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:dropdown
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:31:00,236  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:31:00,237  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:31:00,237  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:31:00,237  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -dropdown Petrol //*[@id="fuel"]  
+2020-09-25 20:31:00,237  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: dropdown inputValue: Petrol webElementValue:  //*[@id="fuel"]
+2020-09-25 20:31:00,237  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 20:31:00,260  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 146 - xpath //*[@id="fuel"]
+2020-09-25 20:31:00,260  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 147 - Petrol
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:10
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Sleep 
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:1200
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:sleep
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:31:00,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:31:00,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:31:00,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:31:00,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -sleep 1200   
+2020-09-25 20:31:00,297  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: sleep inputValue: 1200 webElementValue:  
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 334 - sleep is done sucessfully
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:11
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Close Browser
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:CloseBrowser
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 20:31:05,297  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 20:31:05,298  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 20:31:05,298  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC8
+2020-09-25 20:31:05,298  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -CloseBrowser    
+2020-09-25 20:31:05,298  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: CloseBrowser inputValue:  webElementValue:  
+2020-09-25 20:31:05,874  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 309 - Browser is closed sucessfully
+2020-09-25 20:31:05,874  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC8Y
+2020-09-25 20:31:05,874  INFO [main] - mil.dtic.selenium.RunTest.readExcel 209 - In test case execution flag - Y
+2020-09-25 20:31:05,874  INFO [main] - mil.dtic.selenium.RunTest.readExcel 232 - Adding to case list ...
+2020-09-25 20:31:05,874  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 1
+2020-09-25 20:31:05,912  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:05,913  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 20:31:05,913  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Open url
+2020-09-25 20:31:05,914  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:05,914  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> http://sampleapp.tricentis.com/101/app.php
+2020-09-25 20:31:05,914  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> url
+2020-09-25 20:31:05,915  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:05,917  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Url is opened sucessfully
+2020-09-25 20:31:06,046  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 2
+2020-09-25 20:31:06,049  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,050  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 20:31:06,051  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Dropdown select
+2020-09-25 20:31:06,052  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="make"]
+2020-09-25 20:31:06,053  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> BMW
+2020-09-25 20:31:06,053  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown
+2020-09-25 20:31:06,054  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,054  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown selection was done successfully
+2020-09-25 20:31:06,072  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 3
+2020-09-25 20:31:06,075  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,075  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 20:31:06,076  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Enter Engine Performance
+2020-09-25 20:31:06,077  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="engineperformance"]
+2020-09-25 20:31:06,078  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3000
+2020-09-25 20:31:06,078  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> input
+2020-09-25 20:31:06,079  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,080  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Input is performed sucessfully
+2020-09-25 20:31:06,092  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 4
+2020-09-25 20:31:06,094  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,095  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10
+2020-09-25 20:31:06,095  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Sleep 
+2020-09-25 20:31:06,137  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:06,137  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1200
+2020-09-25 20:31:06,138  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep
+2020-09-25 20:31:06,139  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,140  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep is done sucessfully
+2020-09-25 20:31:06,156  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 5
+2020-09-25 20:31:06,160  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,160  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 20:31:06,161  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Enter Engine Performance
+2020-09-25 20:31:06,161  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="engineperformance"]
+2020-09-25 20:31:06,162  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:06,162  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> clear
+2020-09-25 20:31:06,163  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,163  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Clear input is performed sucessfully
+2020-09-25 20:31:06,178  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 6
+2020-09-25 20:31:06,180  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,180  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10
+2020-09-25 20:31:06,181  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Sleep 
+2020-09-25 20:31:06,181  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:06,182  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1200
+2020-09-25 20:31:06,182  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep
+2020-09-25 20:31:06,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep is done sucessfully
+2020-09-25 20:31:06,206  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 7
+2020-09-25 20:31:06,209  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,210  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 4
+2020-09-25 20:31:06,210  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Enter Manufacturing Date
+2020-09-25 20:31:06,210  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="dateofmanufacture"]
+2020-09-25 20:31:06,211  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10/12/2019
+2020-09-25 20:31:06,211  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> input
+2020-09-25 20:31:06,211  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,211  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Input is performed sucessfully
+2020-09-25 20:31:06,230  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 8
+2020-09-25 20:31:06,232  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,232  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 5
+2020-09-25 20:31:06,233  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Enter Cylinder
+2020-09-25 20:31:06,234  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> cylindercapacity
+2020-09-25 20:31:06,234  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 6
+2020-09-25 20:31:06,234  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> input
+2020-09-25 20:31:06,235  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,235  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Input is performed sucessfully
+2020-09-25 20:31:06,259  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 9
+2020-09-25 20:31:06,261  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,262  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 6
+2020-09-25 20:31:06,262  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Number of Seat
+2020-09-25 20:31:06,263  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="numberofseats"]
+2020-09-25 20:31:06,263  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 5
+2020-09-25 20:31:06,263  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown
+2020-09-25 20:31:06,263  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,264  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown selection was done successfully
+2020-09-25 20:31:06,284  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 10
+2020-09-25 20:31:06,285  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,286  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 7
+2020-09-25 20:31:06,287  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Right Hand Drive
+2020-09-25 20:31:06,287  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="insurance-form"]/div/section[1]/div[7]/p/label[2]/span
+2020-09-25 20:31:06,288  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> No
+2020-09-25 20:31:06,289  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> radio
+2020-09-25 20:31:06,289  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,290  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> radio button selection was done successfully
+2020-09-25 20:31:06,321  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 11
+2020-09-25 20:31:06,323  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,323  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 8
+2020-09-25 20:31:06,324  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Number of Seat
+2020-09-25 20:31:06,324  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="numberofseatsmotorcycle"]
+2020-09-25 20:31:06,325  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 20:31:06,325  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown
+2020-09-25 20:31:06,325  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,326  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown selection was done successfully
+2020-09-25 20:31:06,351  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 12
+2020-09-25 20:31:06,353  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,354  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 9
+2020-09-25 20:31:06,354  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Fuel Type
+2020-09-25 20:31:06,355  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //*[@id="fuel"]
+2020-09-25 20:31:06,355  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Petrol
+2020-09-25 20:31:06,355  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown
+2020-09-25 20:31:06,355  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,356  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> dropdown selection was done successfully
+2020-09-25 20:31:06,378  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 13
+2020-09-25 20:31:06,379  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,379  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10
+2020-09-25 20:31:06,380  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Sleep 
+2020-09-25 20:31:06,380  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:06,380  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1200
+2020-09-25 20:31:06,380  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep
+2020-09-25 20:31:06,381  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,381  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep is done sucessfully
+2020-09-25 20:31:06,397  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Tricentis Test Case # -> TC8 Row Number is -> 14
+2020-09-25 20:31:06,400  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,400  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 11
+2020-09-25 20:31:06,401  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Close Browser
+2020-09-25 20:31:06,402  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:06,403  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 20:31:06,403  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> CloseBrowser
+2020-09-25 20:31:06,404  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,404  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Browser is closed sucessfully
+2020-09-25 20:31:06,427  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Cases Test Case # -> TC8 Row Number is -> 1
+2020-09-25 20:31:06,428  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Tricentis
+2020-09-25 20:31:06,429  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 20:31:06,429  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC8
+2020-09-25 20:31:06,429  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Tricentis 
+2020-09-25 20:31:06,429  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Y
+2020-09-25 20:31:06,429  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,432  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> LoginTestcases Row Number is -> 1
+2020-09-25 20:31:06,433  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 20:31:06,433  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 20:31:06,433  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 20:31:06,434  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 20:31:06,436  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> UserRegistrationTestCases Row Number is -> 2
+2020-09-25 20:31:06,437  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 20:31:06,437  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> UserRegistrationTestCases
+2020-09-25 20:31:06,437  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 20:31:06,438  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 20:31:06,440  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> AnotherTestCase Row Number is -> 3
+2020-09-25 20:31:06,441  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 20:31:06,441  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> AnotherTestCase
+2020-09-25 20:31:06,442  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 20:31:06,442  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 20:31:06,445  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> TricentisAuto Row Number is -> 4
+2020-09-25 20:31:06,446  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 4
+2020-09-25 20:31:06,446  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TricentisAuto
+2020-09-25 20:31:06,446  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 20:31:06,446  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 20:31:06,452  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> TricentisAutoTest Row Number is -> 5
+2020-09-25 20:31:06,453  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 5
+2020-09-25 20:31:06,454  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TricentisAutoTest
+2020-09-25 20:31:06,454  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 20:31:06,455  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 20:31:06,458  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> Tricentis Row Number is -> 6
+2020-09-25 20:31:06,460  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 6
+2020-09-25 20:31:06,460  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Tricentis
+2020-09-25 20:31:06,460  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Y
+2020-09-25 20:31:06,461  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 20:31:06,573  INFO [main] - mil.dtic.selenium.RunTest.readExcel 275 - Closing workbook ...
+2020-09-25 21:14:42,791  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 21:14:42,797  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 21:14:42,851  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> LoginTestcases
+2020-09-25 21:14:42,851  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 21:14:42,852  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC1
+2020-09-25 21:14:42,852  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Login with correct username and password
+2020-09-25 21:14:42,853  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 21:14:42,888  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 21:14:42,888  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> chrome
+2020-09-25 21:14:42,889  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 21:14:42,889  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 21:14:42,889  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 43 - In Chrome ...
+2020-09-25 21:14:42,893  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 52 - Setting Chrome driver ...
+2020-09-25 21:14:46,771  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 61 - Chrome browser started
+2020-09-25 21:14:46,778  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 67 - Wait time is -> 10
+2020-09-25 21:17:53,481  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-25 21:17:53,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 21:17:53,548  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> LoginTestcases
+2020-09-25 21:17:53,548  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-25 21:17:53,548  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC1
+2020-09-25 21:17:53,548  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Login with correct username and password
+2020-09-25 21:17:53,549  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-25 21:17:53,580  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-25 21:17:53,581  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> chrome
+2020-09-25 21:17:53,581  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 21:17:53,581  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-25 21:17:53,582  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 43 - In Chrome ...
+2020-09-25 21:17:53,587  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 52 - Setting Chrome driver ...
+2020-09-25 21:17:57,396  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 61 - Chrome browser started
+2020-09-25 21:17:57,403  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 67 - Wait time is -> 10
+2020-09-25 21:17:59,531  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:1
+2020-09-25 21:17:59,531  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Open url
+2020-09-25 21:17:59,531  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 21:17:59,532  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 21:17:59,532  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:http://localhost:8185
+2020-09-25 21:17:59,532  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:url
+2020-09-25 21:17:59,532  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:17:59,533  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:17:59,533  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:17:59,533  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:17:59,534  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:17:59,534  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:17:59,536  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -url http://localhost:8185   
+2020-09-25 21:17:59,537  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: url inputValue: http://localhost:8185 webElementValue:  
+2020-09-25 21:18:00,379  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 297 - Url is opened sucessfully
+2020-09-25 21:18:00,379  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:00,380  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:1
+2020-09-25 21:18:00,380  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Enter correct Username
+2020-09-25 21:18:00,381  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 21:18:00,381  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://input[@id='username']
+2020-09-25 21:18:00,382  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:saiful
+2020-09-25 21:18:00,382  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:input
+2020-09-25 21:18:00,382  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:00,383  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:00,383  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:00,385  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:00,386  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:00,386  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:00,387  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -input saiful //input[@id='username']  
+2020-09-25 21:18:00,387  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: input inputValue: saiful webElementValue:  //input[@id='username']
+2020-09-25 21:18:00,388  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 93 - In keyword: input inputValue: saiful webElementValue:  //input[@id='username']  
+2020-09-25 21:18:00,389  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 21:18:00,461  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 21:18:00,510  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 96 - valueOne :  valueTwo :  failMessage : 
+2020-09-25 21:18:00,515  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 116 - Input is performed sucessfully
+2020-09-25 21:18:00,515  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:00,516  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:2
+2020-09-25 21:18:00,516  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Sleep 
+2020-09-25 21:18:00,516  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 21:18:00,516  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 21:18:00,517  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:10
+2020-09-25 21:18:00,517  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:sleep
+2020-09-25 21:18:00,517  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:00,517  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:00,518  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:00,519  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:00,519  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:00,519  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:00,519  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -sleep 10   
+2020-09-25 21:18:00,519  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: sleep inputValue: 10 webElementValue:  
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 334 - sleep is done sucessfully
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:3
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Enter correct Password
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue://input[@id='password']
+2020-09-25 21:18:05,520  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:ZIA123
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:input
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:05,521  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:05,522  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -input ZIA123 //input[@id='password']  
+2020-09-25 21:18:05,522  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: input inputValue: ZIA123 webElementValue:  //input[@id='password']
+2020-09-25 21:18:05,522  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 93 - In keyword: input inputValue: ZIA123 webElementValue:  //input[@id='password']  
+2020-09-25 21:18:05,522  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 21:18:05,556  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 21:18:05,598  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 96 - valueOne :  valueTwo :  failMessage : 
+2020-09-25 21:18:05,598  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 116 - Input is performed sucessfully
+2020-09-25 21:18:05,598  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:05,598  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:2
+2020-09-25 21:18:05,598  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Sleep 
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:10
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:sleep
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:05,599  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:05,600  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -sleep 10   
+2020-09-25 21:18:05,600  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: sleep inputValue: 10 webElementValue:  
+2020-09-25 21:18:10,600  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 334 - sleep is done sucessfully
+2020-09-25 21:18:10,600  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:10,600  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:2
+2020-09-25 21:18:10,600  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Click on Sign-In Button
+2020-09-25 21:18:10,601  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:xpath
+2020-09-25 21:18:10,601  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:/html/body/div[1]/div/div/form/button
+2020-09-25 21:18:10,601  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:
+2020-09-25 21:18:10,601  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:click
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -click  /html/body/div[1]/div/div/form/button  
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: click inputValue:  webElementValue:  /html/body/div[1]/div/div/form/button
+2020-09-25 21:18:10,602  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - In keyword: click inputValue:  webElementValue:  /html/body/div[1]/div/div/form/button
+2020-09-25 21:18:10,603  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 372 - Web Element is an - > xpath
+2020-09-25 21:18:11,148  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 48 - Click is performed sucessfully
+2020-09-25 21:18:11,148  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:11,149  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:2
+2020-09-25 21:18:11,149  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Sleep 
+2020-09-25 21:18:11,150  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 21:18:11,150  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 21:18:11,151  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:10
+2020-09-25 21:18:11,151  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:sleep
+2020-09-25 21:18:11,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:11,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:11,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:11,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:11,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:11,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:11,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -sleep 10   
+2020-09-25 21:18:11,154  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: sleep inputValue: 10 webElementValue:  
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 334 - sleep is done sucessfully
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsSerialNumber:3
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - testStepsDescription:Close Browser
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElement:
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - webElementValue:
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - inputValue:
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsKeyword:CloseBrowser
+2020-09-25 21:18:16,156  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsComparisonType:
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsValueOne:
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testStepsValueTwo:
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.RunTest.readExcel 161 - testStepsFailMessage:
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - testCaseExecutionFlag:Y
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.RunTest.readExcel 164 - Setting testCaseExecutionFlag:Y to testCaseNumber : TC1
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.RunTest.readExcel 167 - Executing performActions Method with the five arguments -CloseBrowser    
+2020-09-25 21:18:16,157  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 40 - keyword: CloseBrowser inputValue:  webElementValue:  
+2020-09-25 21:18:16,788  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 309 - Browser is closed sucessfully
+2020-09-25 21:18:16,788  INFO [main] - mil.dtic.selenium.RunTest.readExcel 198 - TC1Y
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 209 - In test case execution flag - Y
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 2
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC2
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Login with incorrect username and password
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: N
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 223 - In test case execution flag - N
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 3
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC3
+2020-09-25 21:18:16,789  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Login with empty username and password
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: N
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 223 - In test case execution flag - N
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 4
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC4
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Submit Application for applying Automation Practice
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: N
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 223 - In test case execution flag - N
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 5
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC5
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: DTIC Search
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: N
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 223 - In test case execution flag - N
+2020-09-25 21:18:16,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 232 - Adding to case list ...
+2020-09-25 21:18:16,791  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-25 21:18:16,791  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 21:18:16,791  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-25 21:18:16,791  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-25 21:18:16,791  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 1
+2020-09-25 21:18:16,828  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:16,829  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 21:18:16,829  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Open url
+2020-09-25 21:18:16,830  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:16,830  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> http://localhost:8185
+2020-09-25 21:18:16,831  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> url
+2020-09-25 21:18:16,831  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:16,832  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Url is opened sucessfully
+2020-09-25 21:18:16,964  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 2
+2020-09-25 21:18:16,967  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:16,968  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 21:18:16,969  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Enter correct Username
+2020-09-25 21:18:16,970  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //input[@id='username']
+2020-09-25 21:18:16,971  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> saiful
+2020-09-25 21:18:16,971  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> input
+2020-09-25 21:18:16,972  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:16,972  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Input is performed sucessfully
+2020-09-25 21:18:16,987  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 3
+2020-09-25 21:18:16,989  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:16,990  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 21:18:16,991  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Sleep 
+2020-09-25 21:18:17,038  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:17,038  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10
+2020-09-25 21:18:17,039  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep
+2020-09-25 21:18:17,040  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,041  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep is done sucessfully
+2020-09-25 21:18:17,057  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 4
+2020-09-25 21:18:17,060  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:17,061  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 21:18:17,062  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Enter correct Password
+2020-09-25 21:18:17,062  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> //input[@id='password']
+2020-09-25 21:18:17,063  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> ZIA123
+2020-09-25 21:18:17,064  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> input
+2020-09-25 21:18:17,064  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,065  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Input is performed sucessfully
+2020-09-25 21:18:17,081  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 5
+2020-09-25 21:18:17,083  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:17,083  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 21:18:17,085  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Sleep 
+2020-09-25 21:18:17,086  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:17,087  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10
+2020-09-25 21:18:17,087  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep
+2020-09-25 21:18:17,088  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,088  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep is done sucessfully
+2020-09-25 21:18:17,107  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 6
+2020-09-25 21:18:17,108  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:17,109  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 21:18:17,109  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Click on Sign-In Button
+2020-09-25 21:18:17,109  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> /html/body/div[1]/div/div/form/button
+2020-09-25 21:18:17,110  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:17,110  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> click
+2020-09-25 21:18:17,110  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,111  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Click is performed sucessfully
+2020-09-25 21:18:17,130  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 7
+2020-09-25 21:18:17,132  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:17,133  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 21:18:17,133  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Sleep 
+2020-09-25 21:18:17,134  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:17,135  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 10
+2020-09-25 21:18:17,136  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep
+2020-09-25 21:18:17,136  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,137  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> sleep is done sucessfully
+2020-09-25 21:18:17,156  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> LoginTestcases Test Case # -> TC1 Row Number is -> 8
+2020-09-25 21:18:17,158  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:17,159  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 21:18:17,159  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Close Browser
+2020-09-25 21:18:17,159  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:17,160  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 
+2020-09-25 21:18:17,160  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> CloseBrowser
+2020-09-25 21:18:17,160  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,161  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Browser is closed sucessfully
+2020-09-25 21:18:17,179  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Cases Test Case # -> TC1 Row Number is -> 1
+2020-09-25 21:18:17,181  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 21:18:17,182  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 21:18:17,182  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC1
+2020-09-25 21:18:17,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Login with correct username and password
+2020-09-25 21:18:17,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Y
+2020-09-25 21:18:17,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,190  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Cases Test Case # -> TC2 Row Number is -> 2
+2020-09-25 21:18:17,193  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 21:18:17,193  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 21:18:17,193  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC2
+2020-09-25 21:18:17,194  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Login with incorrect username and password
+2020-09-25 21:18:17,194  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 21:18:17,195  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 21:18:17,206  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Cases Test Case # -> TC3 Row Number is -> 3
+2020-09-25 21:18:17,208  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 21:18:17,208  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 21:18:17,208  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC3
+2020-09-25 21:18:17,209  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Login with empty username and password
+2020-09-25 21:18:17,209  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 21:18:17,209  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 21:18:17,216  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Cases Test Case # -> TC4 Row Number is -> 4
+2020-09-25 21:18:17,220  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 21:18:17,221  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 4
+2020-09-25 21:18:17,222  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC4
+2020-09-25 21:18:17,222  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Submit Application for applying Automation Practice
+2020-09-25 21:18:17,223  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 21:18:17,223  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 21:18:17,234  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Cases Test Case # -> TC5 Row Number is -> 5
+2020-09-25 21:18:17,237  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 21:18:17,238  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 5
+2020-09-25 21:18:17,238  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> TC5
+2020-09-25 21:18:17,238  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> DTIC Search
+2020-09-25 21:18:17,239  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 21:18:17,239  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 21:18:17,249  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> LoginTestcases Row Number is -> 1
+2020-09-25 21:18:17,251  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 1
+2020-09-25 21:18:17,252  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> LoginTestcases
+2020-09-25 21:18:17,253  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> Y
+2020-09-25 21:18:17,254  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> PASSED
+2020-09-25 21:18:17,258  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> UserRegistrationTestCases Row Number is -> 2
+2020-09-25 21:18:17,259  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 2
+2020-09-25 21:18:17,259  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> UserRegistrationTestCases
+2020-09-25 21:18:17,259  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 21:18:17,260  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 21:18:17,264  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 297 - Sheet -> Test Suite Test Case # -> AnotherTestCase Row Number is -> 3
+2020-09-25 21:18:17,266  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> 3
+2020-09-25 21:18:17,267  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> AnotherTestCase
+2020-09-25 21:18:17,267  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> N
+2020-09-25 21:18:17,268  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 317 - obj.toString() -> SKIPPED
+2020-09-25 21:18:17,363  INFO [main] - mil.dtic.selenium.RunTest.readExcel 275 - Closing workbook ...

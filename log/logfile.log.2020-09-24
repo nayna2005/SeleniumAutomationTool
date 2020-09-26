@@ -1,0 +1,110 @@
+2020-09-24 20:14:17,779  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-24 20:14:17,790  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:14:17,791  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-24 20:14:17,792  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:14:17,792  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-24 20:14:17,793  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:14:17,793  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-24 20:14:17,794  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:14:17,795  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-24 20:14:17,795  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:14:17,796  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-24 20:14:17,796  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:14:17,870  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-24 20:14:17,871  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-24 20:14:17,871  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-24 20:14:17,872  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-24 20:14:17,873  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-24 20:14:17,908  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-24 20:14:17,909  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-24 20:14:17,910  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-24 20:14:17,911  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-24 20:14:17,912  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-24 20:16:22,610  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-24 20:16:22,612  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:16:22,614  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-24 20:16:22,614  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:16:22,614  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-24 20:16:22,615  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:16:22,615  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-24 20:16:22,615  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:16:22,616  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-24 20:16:22,616  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:16:22,616  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-24 20:16:22,617  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:16:22,695  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-24 20:16:22,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-24 20:16:22,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-24 20:16:22,698  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-24 20:16:22,698  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-24 20:16:22,750  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-24 20:16:22,751  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-24 20:16:22,751  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-24 20:16:22,751  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-24 20:16:22,752  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-24 20:24:02,131  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-24 20:24:02,136  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:24:02,138  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-24 20:24:02,140  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:24:02,140  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-24 20:24:02,141  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:24:02,142  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-24 20:24:02,144  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:24:02,145  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-24 20:24:02,145  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:24:02,149  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-24 20:24:02,150  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:24:02,234  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-24 20:24:02,235  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-24 20:24:02,235  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-24 20:24:02,237  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-24 20:24:02,238  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-24 20:24:02,303  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-24 20:24:02,303  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-24 20:24:02,304  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-24 20:24:02,305  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-85/chromedriver_win32/chromedriver.exe
+2020-09-24 20:24:02,305  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-24 20:29:10,172  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-24 20:29:10,174  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:29:10,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-24 20:29:10,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:29:10,177  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-24 20:29:10,178  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:29:10,179  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-24 20:29:10,179  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:29:10,180  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-24 20:29:10,180  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:29:10,181  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-24 20:29:10,181  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:29:10,249  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-24 20:29:10,249  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-24 20:29:10,249  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-24 20:29:10,251  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-24 20:29:10,251  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-24 20:29:10,290  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-24 20:29:10,290  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-24 20:29:10,290  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/geckodriver.exe
+2020-09-24 20:29:10,291  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/geckodriver.exe
+2020-09-24 20:29:10,291  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
+2020-09-24 20:34:40,916  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2020-09-24 20:34:40,919  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:34:40,921  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2020-09-24 20:34:40,921  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:34:40,922  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2020-09-24 20:34:40,922  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:34:40,923  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2020-09-24 20:34:40,923  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:34:40,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2020-09-24 20:34:40,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:34:40,924  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2020-09-24 20:34:40,925  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2020-09-24 20:34:41,023  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> Tricentis
+2020-09-24 20:34:41,023  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2020-09-24 20:34:41,026  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC8
+2020-09-24 20:34:41,026  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis 
+2020-09-24 20:34:41,027  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: Y
+2020-09-24 20:34:41,070  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2020-09-24 20:34:41,071  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> ie
+2020-09-24 20:34:41,071  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-86/chromedriver_win32/chromedriver.exe
+2020-09-24 20:34:41,072  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-86/chromedriver_win32/chromedriver.exe
+2020-09-24 20:34:41,072  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 37 - In IE ...
