@@ -54,8 +54,8 @@ public class Driver {
 			// but run script with headful model require a physical or virtual display. Run with headless model when not setup virtual 
 			// display by xWindow/xvbf
 			//options.addArguments("headless"); // Set headless to run from Jenkins
-			//options.addArguments("start-maximized"); // Don't maximize Chrome, because has no display if running from Jenkins
-			options.addArguments("--no-sandbox"); // Bypass OS security model
+			options.addArguments("start-maximized"); // Don't maximize Chrome, because has no display if running from Jenkins
+			//options.addArguments("--no-sandbox"); // Bypass OS security model
 			options.setExperimentalOption("useAutomationExtension", false);
 			driver = new ChromeDriver(options);
 			logger.info("Chrome browser started");
